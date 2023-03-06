@@ -1,0 +1,8 @@
+- name: JAVA
+  color: danger
+
+- name: C
+  color:
+
+- name: SQL
+  color: secondary

@@ -1,0 +1,6 @@
+- name: Dota2
+  percentage: 95
+  color: info
+
+- name: Hearthstone
+  color: success
