@@ -54,7 +54,7 @@ As a recent Master of Information Technology graduate from Flinders University, 
 ## Database
 - SQLite
 ## Tools
-- GitHub, Azure DevOps, Jira, VS Code, intellJ IDEA
+- GitHub, Azure DevOps, Jira, VS Code, IntelliJ IDEA
 ## Other skills
 - Requirement Elicitation Techniques, Project Management, Database design
 
