@@ -3,4 +3,5 @@
   color: info
 
 - name: Hearthstone
+  percentage: 95
   color: success
