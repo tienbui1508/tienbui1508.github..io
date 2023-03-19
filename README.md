@@ -6,6 +6,6 @@ portfolio page
   <h1>portfolYOU</h1>
   <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i>
 
-<a href="https://YoussefRaafatNasry.github.io/portfolYOU"><img src="/images/QRCode.png"></a>
+<a href="https://tienbui1508.github.io"><img src="/images/QRCode.png"></a>
 
 </div>
