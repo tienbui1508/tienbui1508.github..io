@@ -257,7 +257,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-toc
   webrick (~> 1.8)
 
 BUNDLED WITH
