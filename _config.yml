@@ -11,7 +11,6 @@ open_new_tab: false # Opens external URLs in new tab (works for posts, projects 
 ### Plugins ###
 plugins:
   - jemoji
-  - jekyll-toc #added by Tien to crete TOC
 
 ### Navbar Settings ###
 nav_exclude: # The following paths are excluded from navbar
@@ -90,6 +89,3 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-
-### Create table of content ###
-markdown: kramdown
