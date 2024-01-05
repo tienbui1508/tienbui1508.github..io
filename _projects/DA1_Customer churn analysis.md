@@ -18,7 +18,7 @@ Tasks details
 
 # Final report
 
-<iframe title="Customer churn analysis" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiODQ4YmMzMDEtM2JmNi00NThiLWE4NDEtZjFlNDc0YWYyNjM2IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection83d234cc1bdbe978d3df" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Customer churn analysis" width="900" height="547" src="https://app.powerbi.com/view?r=eyJrIjoiODQ4YmMzMDEtM2JmNi00NThiLWE4NDEtZjFlNDc0YWYyNjM2IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection83d234cc1bdbe978d3df" frameborder="0" allowFullScreen="true"></iframe>
 
 # Overview
 
@@ -63,6 +63,6 @@ Investigate the underlying reasons for customer churn for a fictional telecom co
 
 ## Publish
 
-- The final report and dashboard is published to Power BI Service and shared as at the top of this page. Below are the links to the report, and its static PDF version 👇
-  {% include elements/button.html link="https://app.powerbi.com/view?r=eyJrIjoiODQ4YmMzMDEtM2JmNi00NThiLWE4NDEtZjFlNDc0YWYyNjM2IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection83d234cc1bdbe978d3df" text="Customer Churn Analysis Report - Power BI Server" block=true %}
-  {% include elements/button.html link="/assets/PDFs/customerChurnAnalysis/report.pdf" text="Customer Churn Analysis Report - PDF" block=true %}
+The final report and dashboard is published to Power BI Service and shared as at the top of this page. Below are the links to the report on Power BI Service, and its static PDF version 👇
+{% include elements/button.html link="https://app.powerbi.com/view?r=eyJrIjoiODQ4YmMzMDEtM2JmNi00NThiLWE4NDEtZjFlNDc0YWYyNjM2IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection83d234cc1bdbe978d3df" text="Customer Churn Analysis Report - Power BI Server" block=true %}
+{% include elements/button.html link="/assets/PDFs/customerChurnAnalysis/report.pdf" text="Customer Churn Analysis Report - PDF" block=true %}
