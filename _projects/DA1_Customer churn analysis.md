@@ -1,7 +1,7 @@
 ---
 name: Customer churn analysis [Data Analysis]
 tools: [Power BI, Power Query, DAX, Data Analysis, Data visualisation]
-image: /assets/images/customerChurnAnalysis/customerChurnAnalysis_1.png
+image: /assets/images/customerChurnAnalysis/allSteps.png
 description: Utilised Power Query, DAX, and visualisation tools within Power BI to analyse a fictional telecom company's dataset, examining customer churn patterns and facilitating data-driven insights for retention strategies.
 ---
 
@@ -59,7 +59,7 @@ Investigate the underlying reasons for customer churn for a fictional telecom co
   - Overview
   - Age Groups, Payment and contract
   - Extra charges
-  - other Insights
+  - Other Insights
 
 ## Publish
 
