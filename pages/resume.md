@@ -13,31 +13,37 @@ weight: 2
 
 Glandore, SA 5037 <br>
 Visa 485 Post-Study work to 2/2028 <br>
-Mobile phone: 0481998011 <br>
 LinkedIn: [tienbui1508](https://www.linkedin.com/in/tienbui1508) <br>
 Email: [tienbui1508@gmail.com](mailto:tienbui1508@gmail.com) <br>
-Portfolio: [tienbui1508.github.io](https://github.com/tienbui1508)
+Portfolio: [tienbui1508.github.io](https://github.com/tienbui1508) <br>
+Datacamp: [tienbui1508](https://www.datacamp.com/portfolio/tienbui1508) <br>
+Kaggle: [tienbui1508](https://www.kaggle.com/tienbui1508)
 
 {% capture list_items %}
 SUMMARY
 TECHNICAL SKILLS
 SOFT SKILLS
 EDUCATION
+EXTRACURRICULAR AND CERTIFICATIONS
 PROJECTS
 OTHER PROFESSIONAL EXPERIENCE
 LANGUAGES
-CERTIFICATES
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
 
 # SUMMARY
 
-- Motivated and adaptable Master of Information Technology graduate from Flinders University.
-- Seeking an entry-level position as a Software Engineer, Developer, or Data Analyst.
-- Currently building iOS programming skills in `Swift` and `SwiftUI`.
-- Currently building proficiency in data analysis with SQL, Power BI, Python and Excel.
-- Have a foundation in various IT areas through the master's degree, including computer programming, software engineering, and data engineering.
-- Exposed to different technologies and tools through university projects, including `Java`, `C`, `R`, `Node-RED`, `PHP`, `HTML`, `CSS`, `JavaScript`, `SQL`, `Python`.
+- Motivated and adaptable Master of Information Technology graduate from Flinders University, passionate about leveraging
+  advanced skills in SQL, Power BI, Python, and Excel.
+- Actively pursuing an entry-level position in Information Technology, focusing on Software Engineering, Development, or
+  Data Analysis.
+- Demonstrated proficiency in developing comprehensive reports and insightful analyses during university projects, achieving
+  High Distinction in all assignments.
+- Currently building iOS programming skills in Swift and SwiftUI, alongside honing proficiency in data analysis tools, including
+  SQL, Power BI, Python, and Excel.
+- Seamlessly combines IT expertise with financial knowledge from a Bachelor's degree in Accounting and Auditing, offering a
+  unique blend of technical and business acumen.
+- Exposure to various technologies and tools through university and personal projects, showcasing versatility in Swift, Java, C, R, Node-RED, PHP, HTML, CSS, JavaScript, and Python.
 
 # TECHNICAL SKILLS
 
@@ -50,12 +56,11 @@ CERTIFICATES
 
 # SOFT SKILLS
 
-- Demonstrated ability to quickly learn and adapt to new technologies and environments, resulting in the successful completion of multiple university projects.
-- Achieved High Distinction in all university projects, demonstrating strong attention to detail and commitment to delivering high-quality work.
-- Proficient in MS Word, PowerPoint and Excel with experience preparing reports for university projects.
-- Developed strong attention to detail and organisational skills through project management and report creation.
-- Utilised strong problem-solving abilities and analytical thinking to identify and resolve complex issues quickly.
-- Collaborated effectively with team members and worked independently when needed to achieve project goals.
+- Quick learner and adaptable to new technologies, as demonstrated by the successful completion of university projects.
+- Achieved High Distinction in all assignments, showcasing meticulous attention to detail and a commitment to delivering high-quality work. Proficient in MS Word, PowerPoint, and Excel, with experience preparing reports for academic projects.
+- Developed strong organizational skills through effective project management and report creation.
+- Applied robust problem-solving abilities and analytical thinking to swiftly identify and resolve complex issues.
+- Collaborated effectively with team members and demonstrated the ability to work independently to achieve project goals.
 
 # EDUCATION
 
@@ -63,7 +68,7 @@ CERTIFICATES
 
 ADELAIDE, AUSTRALIA (2021-2022)
 
-- Graduated with an excellent GPA: 6.81/7.
+- Graduated with an [excellent GPA: 6.81/7.](https://www.myequals.net/sharelink/bc752586-b412-4105-b61c-cda3cb203dcb/d3cedf87-89ea-4140-b102-719dc5344d4f)
 - Received 2 Chancellor's Letters of Commendation for excellent academic performance.
 - Awarded a University Medal for outstanding academic performance.
 - Achieved High Distinction grades for all University Projects, including:
@@ -79,19 +84,30 @@ ADELAIDE, AUSTRALIA (2021-2022)
 HANOI, VIETNAM (2012-2016)
 
 - GPA: 3.73/4.
+- Recognised as a top high-performance student, receiving scholarships in all semesters.
 - Graduated with an excellent degree.
 
-## OTHER COURSES
+# EXTRACURRICULAR AND CERTIFICATIONS
 
-### CPA AUSTRALIA (2014-2021)
+## [MICROSOFT POWER BI DATA ANALYST: PROFESSIONAL CERTIFICATE BY MICROSOFT ON COURSERA (1/2024)](https://www.coursera.org/account/accomplishments/specialization/8CGTL5XJCEGA)
 
-- Completed all CPA Australia Foundation Exams and 3/6 Professional level Exams.
+## [POWER BI VIRTUAL CASE EXPERIENCE, PWC SWITZERLAND: JOB SIMULATION ON FORAGE (12/2023)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC Switzerland/a87GpgE6tiku7q3gu_PwC Switzerland_JzCuPM3WdEExqkxBf_1702831307533_completion_certificate.pdf)
 
-### Microsoft Power BI Data Analyst – Coursera (In progress)
+- Completed a job simulation where I strengthened my PowerBI skills to understand clients and their data visualisation needs better.
+- Demonstrated expertise in data visualisation through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions. [The report can be seen in this link](https://app.powerbi.com/view?r=eyJrIjoiODc3NzAxOGEtZTc4YS00YjlkLThjZGMtMjBiZTEzY2JiZDU5IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D).
+- Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
+- Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making. [The report can be seen here](https://app.powerbi.com/view?r=eyJrIjoiMzM1YTkwMTctNzE2Yi00YWI1LTg1Y2YtNzExMWNmMjlmOGI3IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection).
 
-### Data Analyst in Power BI – DataCamp (In progress)
+## [DATA ANALYTICS CONSULTING VIRTUAL INTERNSHIP, KPMG AU: JOB SIMULATION ON FORAGE (11/2023)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG AU/m7W4GMqeT3bh9Nb2c_KPMG AU_JzCuPM3WdEExqkxBf_1700321619717_completion_certificate.pdf)
 
-### Data Analyst in SQL – DataCamp (In progress)
+- Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team.
+- Assessed data quality and completeness in preparation for analysis.
+- Analysed data to target high-value customers based on demographics and attributes.
+- Developed dashboards to communicate findings with visuals, which can be seen in [this link](https://app.powerbi.com/view?r=eyJrIjoiMzM1YTkwMTctNzE2Yi00YWI1LTg1Y2YtNzExMWNmMjlmOGI3IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection).
+
+## CPA AUSTRALIA (2014-2021)
+
+- Completed all CPA Australia Foundation Exams and 3 Professional level Exams.
 
 # PROJECTS
 
@@ -244,14 +260,19 @@ IBM Cloud Foundry, IBM Cloud Object Storage, IBM Cloudant Database, IBM Watson A
 
 # OTHER PROFESSIONAL EXPERIENCE
 
-## Freelancer (2016-2018)
+## CASUAL KITCHENHAND, VARIOUS RESTAURANTS (2018-2024)
+
+- Played a crucial role in ensuring the smooth operation of kitchens by handling cooking, food preparation, and dishwashing tasks, maintaining high cleanliness standards.
+- Excelled in high-pressure environments, showcasing effective teamwork, precision in task handling, and a commitment to maintaining quality standards.
+
+## FREELANCER (2016-2018)
 
 - Provided virtual assistant services, including data entry, internet research, and email management for multiple clients.
 - Conducted translation, proofreading, and editing of various materials (English-Vietnamese), including business documents, blogs, codes and personal correspondence.
 - Assisted clients with website and social media management, including content creation and scheduling.
 - Coordinated with clients to ensure project specifications were met on time and within budget.
 
-## Supporter Care Intern, ActionAid VN (3/2017-7/2017)
+## UPPORTER CARE INTERN, ACTIONAID VN (3/2017-7/2017)
 
 - Assisted in building and maintaining strong relationships with supporters through various communication channels.
 - Prepared and monitored communications to supporters for local rights programs (LRPs), including drafting content and coordinating translations.
@@ -259,7 +280,7 @@ IBM Cloud Foundry, IBM Cloud Object Storage, IBM Cloudant Database, IBM Watson A
 - Supervised a team of 10 volunteers in various tasks, including event planning and outreach.
 - Conducted translation and other tasks as assigned to support program activities.
 
-## Audit Intern, BDO Vietnam (12/2015-3/2016)
+## AUDIT INTERN, BDO VIETNAM (12/2015-3/2016)
 
 - Assisted management and senior auditors in daily work, including paperwork, inputting data, checking documents, and shipping documents Conducted translation of documents from English to Vietnamese.
 - Participated in financial audits of client accounts to verify accuracy and compliance with regulations and standards.
@@ -270,7 +291,3 @@ IBM Cloud Foundry, IBM Cloud Object Storage, IBM Cloudant Database, IBM Watson A
 
 - English
 - Vietnamese (Native)
-
-# CERTIFICATES
-
-- PTE Academic: 81 (Acquired Jan 2021)
