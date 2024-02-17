@@ -34,10 +34,9 @@ LANGUAGES
 
 # SUMMARY
 
--	Motivated and adaptable Master of Information Technology graduate from Flinders University actively seeking entry-level positions in Information Technology, specialising in Software Engineering, Development, or Data Analysis.
--	Combines IT expertise with financial knowledge from a Bachelor's degree in Accounting and Auditing, offering a unique blend of technical and business acumen.
--	Demonstrated ability to swiftly learn new technologies and thrive in dynamic work environments, driven by a passion for continuous growth and development.
-
+- Motivated and adaptable Master of Information Technology graduate from Flinders University actively seeking entry-level positions in Information Technology, specialising in Software Engineering, Development, or Data Analysis.
+- Combines IT expertise with financial knowledge from a Bachelor's degree in Accounting and Auditing, offering a unique blend of technical and business acumen.
+- Demonstrated ability to swiftly learn new technologies and thrive in dynamic work environments, driven by a passion for continuous growth and development.
 
 # TECHNICAL SKILLS
 
@@ -47,13 +46,12 @@ LANGUAGES
 
 # SOFT SKILLS
 
--	A quick learner committed to continuous learning and improvement, adept at rapidly acquiring new technologies as evidenced by successful university projects and ongoing self-study initiatives.
--	Meticulous attention to detail and a dedication to delivering high-quality work, showcased by consistently achieving High Distinction in all assignments.
--	Proficient in Microsoft Office and other collaboration tools, with experience preparing reports for academic projects.
--	Developed strong organisational skills through effective project management and report creation.
--	Applied robust problem-solving abilities and analytical thinking to identify and resolve complex issues swiftly.
--	Effective collaboration with team members and demonstrated ability to work independently to achieve project goals.
-
+- A quick learner committed to continuous learning and improvement, adept at rapidly acquiring new technologies as evidenced by successful university projects and ongoing self-study initiatives.
+- Meticulous attention to detail and a dedication to delivering high-quality work, showcased by consistently achieving High Distinction in all assignments.
+- Proficient in Microsoft Office and other collaboration tools, with experience preparing reports for academic projects.
+- Developed strong organisational skills through effective project management and report creation.
+- Applied robust problem-solving abilities and analytical thinking to identify and resolve complex issues swiftly.
+- Effective collaboration with team members and demonstrated ability to work independently to achieve project goals.
 
 # EDUCATION
 
@@ -81,13 +79,14 @@ HANOI, VIETNAM (2012-2016)
 - Graduated with an excellent degree.
 
 # EXTRACURRICULAR
-## [COMMONWEALTH BANK SOFTWARE ENGINEERING: JOB SIMULATION ON FORAGE (2/2024)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth Bank/xv8eSGu7nksKNiCQj_Commonwealth Bank_JzCuPM3WdEExqkxBf_1708098620514_completion_certificate.pdf)
--	Completed a job simulation focused on backend and frontend development for Commonwealth Bank's Software Engineering team.
--	Extended the backend using C# to enable icons, gaining proficiency in .NET, MongoDB, Postman, and Git.
--	Modified an existing React/Redux frontend to enable icons, expanding expertise in React, Redux, TypeScript, NPM, and Git.
--	Strengthened coding skills and learned unit testing with C#, xUnit, and .NET, ensuring comprehensive code coverage and support for icons.
--	Improved Git and GitHub skills, emphasizing effective communication through the submission of changes for team review.
 
+## [COMMONWEALTH BANK SOFTWARE ENGINEERING: JOB SIMULATION ON FORAGE (2/2024)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth Bank/xv8eSGu7nksKNiCQj_Commonwealth Bank_JzCuPM3WdEExqkxBf_1708098620514_completion_certificate.pdf)
+
+- Completed a job simulation focused on backend and frontend development for Commonwealth Bank's Software Engineering team.
+- Extended the backend using C# to enable icons, gaining proficiency in .NET, MongoDB, Postman, and Git.
+- Modified an existing React/Redux frontend to enable icons, expanding expertise in React, Redux, TypeScript, NPM, and Git.
+- Strengthened coding skills and learned unit testing with C#, xUnit, and .NET, ensuring comprehensive code coverage and support for icons.
+- Improved Git and GitHub skills, emphasizing effective communication through the submission of changes for team review.
 
 ## [POWER BI VIRTUAL CASE EXPERIENCE, PWC SWITZERLAND: JOB SIMULATION ON FORAGE (12/2023)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC Switzerland/a87GpgE6tiku7q3gu_PwC Switzerland_JzCuPM3WdEExqkxBf_1702831307533_completion_certificate.pdf)
 
@@ -108,6 +107,7 @@ HANOI, VIETNAM (2012-2016)
 - Completed all CPA Australia Foundation Exams and 3 Professional level Exams.
 
 # CERTIFICATIONS
+
 ## [MICROSOFT CERTIFIED: POWER BI DATA ANALYST ASSOCIATE (2/2024)](https://learn.microsoft.com/en-au/users/tienbui1508/credentials/e2cfc83aec0d0c97)
 
 ## [MICROSOFT POWER BI DATA ANALYST: PROFESSIONAL CERTIFICATE BY MICROSOFT ON COURSERA (1/2024)](https://www.coursera.org/account/accomplishments/specialization/8CGTL5XJCEGA)
@@ -118,7 +118,7 @@ HANOI, VIETNAM (2012-2016)
 
 For details, please visit my [**Portfolio page**](/projects/).
 
-## [CUSTOMER CHURN ANALYSIS](/projects/da1-customer-churn-analysis)
+## [CUSTOMER CHURN ANALYSIS (10/2023)](/projects/da1-customer-churn-analysis)
 
 ### Overview
 
@@ -134,7 +134,7 @@ Power BI, DAX, Power Query.
 - Calculated columns and measures, investigated churn patterns and made appropriate visualisations.
 - Organised the visualisations created in the previous steps into final report and dashboard.
 
-## [RESELL TRACK](/projects/p1-resell-track)
+## [RESELL TRACK (9/2023)](/projects/p1-resell-track)
 
 ### Overview
 
@@ -152,7 +152,7 @@ Swift, SwiftUI, Github, Xcode, AppMockUp, Canva, Test Flight, App Store Connect.
 - Conducted testing using TestFlight and managed deployment on the App Store through App Store Connect.
 - Utilised GitHub for version control and codebase management.
 
-## [SOFTWARE DEVELOPMENT PROJECT](/projects/u1-app-dev)
+## [SOFTWARE DEVELOPMENT PROJECT (5/2022)](/projects/u1-app-dev)
 
 ### Overview
 
@@ -169,7 +169,7 @@ Java, Junit, SVN, Swing, Apache NetBeans, IntelliJ.
 - Built a functional graphical application.
 - Wrote appropriate JavaDoc commenting and inline comments to assist future developers.
 
-## [WEB BASED SYSTEMS DEVELOPMENT PROJECT](/projects/u3-web-dev)
+## [WEB BASED SYSTEMS DEVELOPMENT PROJECT (10/2021)](/projects/u3-web-dev)
 
 ### Overview
 
@@ -190,7 +190,7 @@ HTML, CSS, Javascript, PHP, MySQL, XAMPP, Github, VS Code, Trello, Microsoft Tea
 - Demonstrated teamwork and communication skills to achieve project goals.
 - Applied agile methodologies to manage the project timeline and deliverables effectively.
 
-## [DATA ENGINEERING PROJECT](/projects/u2-data-engineering)
+## [DATA ENGINEERING PROJECT (5/2022)](/projects/u2-data-engineering)
 
 ### Overview
 
@@ -208,7 +208,7 @@ R, R Markdown, R Studio, Twitter API, Microsoft Teams.
 - Used RStudio and R Markdown to conduct exploratory data analysis, natural language processing, and network analysis.
 - Created an interactive HTML report to communicate complex information effectively.
 
-## [DATA MODELLING PROJECT](/projects/u4-data-modelling)
+## [DATA MODELLING PROJECT (10/2021)](/projects/u4-data-modelling)
 
 ### Overview
 
@@ -226,7 +226,7 @@ SQL, SQLite, VS Code, draw.io.
 - Built a SQL database using SQLite.
 - Populated the database with sample data and executed queries to ensure that the schema was correctly implemented.
 
-## [DEVOPS PROJECT](/projects/u5-devops)
+## [DEVOPS PROJECT (10/2022)](/projects/u5-devops)
 
 ### Overview
 
@@ -245,7 +245,7 @@ C#, .NET Core API, Entity Framework, SQL Server, SQL Management Studio, Git, VS 
 - Collaborated with team members to integrate modules.
 - Edited and finalised project report for submission.
 
-## [CLOUD COMPUTING PROJECT](/projects/u6-cloud-computing)
+## [CLOUD COMPUTING PROJECT (10/2022)](/projects/u6-cloud-computing)
 
 ### Overview
 
@@ -266,10 +266,10 @@ IBM Cloud Foundry, IBM Cloud Object Storage, IBM Cloudant Database, IBM Watson A
 # OTHER PROFESSIONAL EXPERIENCE
 
 ## FREELANCER (1/2024 - PRESENT)
--	Designed a bespoke Excel-based roster planner for a client, enabling efficient management of personnel schedules.
--	Utilised advanced Excel functionalities, including VLOOKUP, data validation, macros, and VBA, to automate scheduling processes and enhance usability.
--	Collaborated closely with the client to tailor the solution to their specific needs, delivering a customised tool that streamlines scheduling tasks and improves productivity.
 
+- Designed a bespoke Excel-based roster planner for a client, enabling efficient management of personnel schedules.
+- Utilised advanced Excel functionalities, including VLOOKUP, data validation, macros, and VBA, to automate scheduling processes and enhance usability.
+- Collaborated closely with the client to tailor the solution to their specific needs, delivering a customised tool that streamlines scheduling tasks and improves productivity.
 
 ## FREELANCER (2016-2018)
 
