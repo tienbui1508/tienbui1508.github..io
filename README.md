@@ -7,3 +7,6 @@
 <a href="https://tienbui1508.github.io">Visit my page</a>
 
 </div>
+
+
+<!-- bundle exec jekyll serve -->

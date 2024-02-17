@@ -24,7 +24,8 @@ SUMMARY
 TECHNICAL SKILLS
 SOFT SKILLS
 EDUCATION
-EXTRACURRICULAR AND CERTIFICATIONS
+EXTRACURRICULAR
+CERTIFICATIONS
 PROJECTS
 OTHER PROFESSIONAL EXPERIENCE
 LANGUAGES
@@ -33,34 +34,26 @@ LANGUAGES
 
 # SUMMARY
 
-- Motivated and adaptable Master of Information Technology graduate from Flinders University, passionate about leveraging
-  advanced skills in SQL, Power BI, Python, and Excel.
-- Actively pursuing an entry-level position in Information Technology, focusing on Software Engineering, Development, or
-  Data Analysis.
-- Demonstrated proficiency in developing comprehensive reports and insightful analyses during university projects, achieving
-  High Distinction in all assignments.
-- Currently building iOS programming skills in Swift and SwiftUI, alongside honing proficiency in data analysis tools, including
-  SQL, Power BI, Python, and Excel.
-- Seamlessly combines IT expertise with financial knowledge from a Bachelor's degree in Accounting and Auditing, offering a
-  unique blend of technical and business acumen.
-- Exposure to various technologies and tools through university and personal projects, showcasing versatility in Swift, Java, C, R, Node-RED, PHP, HTML, CSS, JavaScript, and Python.
+-	Motivated and adaptable Master of Information Technology graduate from Flinders University actively seeking entry-level positions in Information Technology, specialising in Software Engineering, Development, or Data Analysis.
+-	Combines IT expertise with financial knowledge from a Bachelor's degree in Accounting and Auditing, offering a unique blend of technical and business acumen.
+-	Demonstrated ability to swiftly learn new technologies and thrive in dynamic work environments, driven by a passion for continuous growth and development.
+
 
 # TECHNICAL SKILLS
 
-- **Programming languages**: Swift, Java, C, HTML, CSS, Javascript, PHP, Python.
-- **Framework**: SwiftUI, Swing, JUnit.
-- **Data Analysis**: Power BI, Excel, SQL, T-SQL, Python, R.
-- **Relational Database**: SQL Server, MySQL, SQLite.
-- **Tools**: Git, GitHub, Azure DevOps, Xcode, VS Code, IntelliJ IDEA, Jira, Trello, Node-RED.
-- **Other skills**: Requirement Elicitation Techniques, Database Design.
+- **Programming**: C#, Swift, SwiftUI, Java.
+- **Data Analysis**: Power BI, Excel, SQL, SQL Server, Python.
+- **Tools**: Git, GitHub, Xcode, VS Code, Jira.
 
 # SOFT SKILLS
 
-- Quick learner and adaptable to new technologies, as demonstrated by the successful completion of university projects.
-- Achieved High Distinction in all assignments, showcasing meticulous attention to detail and a commitment to delivering high-quality work. Proficient in MS Word, PowerPoint, and Excel, with experience preparing reports for academic projects.
-- Developed strong organizational skills through effective project management and report creation.
-- Applied robust problem-solving abilities and analytical thinking to swiftly identify and resolve complex issues.
-- Collaborated effectively with team members and demonstrated the ability to work independently to achieve project goals.
+-	A quick learner committed to continuous learning and improvement, adept at rapidly acquiring new technologies as evidenced by successful university projects and ongoing self-study initiatives.
+-	Meticulous attention to detail and a dedication to delivering high-quality work, showcased by consistently achieving High Distinction in all assignments.
+-	Proficient in Microsoft Office and other collaboration tools, with experience preparing reports for academic projects.
+-	Developed strong organisational skills through effective project management and report creation.
+-	Applied robust problem-solving abilities and analytical thinking to identify and resolve complex issues swiftly.
+-	Effective collaboration with team members and demonstrated ability to work independently to achieve project goals.
+
 
 # EDUCATION
 
@@ -87,9 +80,14 @@ HANOI, VIETNAM (2012-2016)
 - Recognised as a top high-performance student, receiving scholarships in all semesters.
 - Graduated with an excellent degree.
 
-# EXTRACURRICULAR AND CERTIFICATIONS
+# EXTRACURRICULAR
+## [COMMONWEALTH BANK SOFTWARE ENGINEERING: JOB SIMULATION ON FORAGE (2/2024)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth Bank/xv8eSGu7nksKNiCQj_Commonwealth Bank_JzCuPM3WdEExqkxBf_1708098620514_completion_certificate.pdf)
+-	Completed a job simulation focused on backend and frontend development for Commonwealth Bank's Software Engineering team.
+-	Extended the backend using C# to enable icons, gaining proficiency in .NET, MongoDB, Postman, and Git.
+-	Modified an existing React/Redux frontend to enable icons, expanding expertise in React, Redux, TypeScript, NPM, and Git.
+-	Strengthened coding skills and learned unit testing with C#, xUnit, and .NET, ensuring comprehensive code coverage and support for icons.
+-	Improved Git and GitHub skills, emphasizing effective communication through the submission of changes for team review.
 
-## [MICROSOFT POWER BI DATA ANALYST: PROFESSIONAL CERTIFICATE BY MICROSOFT ON COURSERA (1/2024)](https://www.coursera.org/account/accomplishments/specialization/8CGTL5XJCEGA)
 
 ## [POWER BI VIRTUAL CASE EXPERIENCE, PWC SWITZERLAND: JOB SIMULATION ON FORAGE (12/2023)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC Switzerland/a87GpgE6tiku7q3gu_PwC Switzerland_JzCuPM3WdEExqkxBf_1702831307533_completion_certificate.pdf)
 
@@ -108,6 +106,13 @@ HANOI, VIETNAM (2012-2016)
 ## CPA AUSTRALIA (2014-2021)
 
 - Completed all CPA Australia Foundation Exams and 3 Professional level Exams.
+
+# CERTIFICATIONS
+## [MICROSOFT CERTIFIED: POWER BI DATA ANALYST ASSOCIATE (2/2024)](https://learn.microsoft.com/en-au/users/tienbui1508/credentials/e2cfc83aec0d0c97)
+
+## [MICROSOFT POWER BI DATA ANALYST: PROFESSIONAL CERTIFICATE BY MICROSOFT ON COURSERA (1/2024)](https://www.coursera.org/account/accomplishments/specialization/8CGTL5XJCEGA)
+
+## [HACKERRANK SQL INTERMEDIATE (10/2023)](https://www.hackerrank.com/certificates/75fe0551d557)
 
 # PROJECTS
 
@@ -260,10 +265,11 @@ IBM Cloud Foundry, IBM Cloud Object Storage, IBM Cloudant Database, IBM Watson A
 
 # OTHER PROFESSIONAL EXPERIENCE
 
-## CASUAL KITCHENHAND, VARIOUS RESTAURANTS (2018-2024)
+## FREELANCER (1/2024 - PRESENT)
+-	Designed a bespoke Excel-based roster planner for a client, enabling efficient management of personnel schedules.
+-	Utilised advanced Excel functionalities, including VLOOKUP, data validation, macros, and VBA, to automate scheduling processes and enhance usability.
+-	Collaborated closely with the client to tailor the solution to their specific needs, delivering a customised tool that streamlines scheduling tasks and improves productivity.
 
-- Played a crucial role in ensuring the smooth operation of kitchens by handling cooking, food preparation, and dishwashing tasks, maintaining high cleanliness standards.
-- Excelled in high-pressure environments, showcasing effective teamwork, precision in task handling, and a commitment to maintaining quality standards.
 
 ## FREELANCER (2016-2018)
 
@@ -272,7 +278,7 @@ IBM Cloud Foundry, IBM Cloud Object Storage, IBM Cloudant Database, IBM Watson A
 - Assisted clients with website and social media management, including content creation and scheduling.
 - Coordinated with clients to ensure project specifications were met on time and within budget.
 
-## UPPORTER CARE INTERN, ACTIONAID VN (3/2017-7/2017)
+## SUPPORTER CARE INTERN, ACTIONAID VN (3/2017-7/2017)
 
 - Assisted in building and maintaining strong relationships with supporters through various communication channels.
 - Prepared and monitored communications to supporters for local rights programs (LRPs), including drafting content and coordinating translations.
