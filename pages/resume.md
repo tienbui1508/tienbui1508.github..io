@@ -30,7 +30,7 @@ PROJECTS
 OTHER PROFESSIONAL EXPERIENCE
 LANGUAGES
 {% endcapture %}
-{% include elements/list.html title="Table of Contents" type="toc" %}
+{% include elements/list.html title="TABLE OF CONTENTS" type="toc" %}
 
 # SUMMARY
 
