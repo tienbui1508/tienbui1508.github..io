@@ -108,7 +108,7 @@ HANOI, VIETNAM (2012-2016)
 - Analysed data to target high-value customers based on demographics and attributes.
 - Developed dashboards to communicate findings with visuals, which can be seen in [this link](https://app.powerbi.com/view?r=eyJrIjoiMzM1YTkwMTctNzE2Yi00YWI1LTg1Y2YtNzExMWNmMjlmOGI3IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection).
 
-## CPA AUSTRALIA (2014-2021)
+## CPA AUSTRALIA (2014-2018)
 
 - Completed all CPA Australia Foundation Exams and 3 Professional level Exams.
 
