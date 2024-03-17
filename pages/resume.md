@@ -80,6 +80,12 @@ HANOI, VIETNAM (2012-2016)
 
 # EXTRACURRICULAR
 
+## [STANDARD BANK SOFTWARE DEVELOPMENT: JOB SIMULATION ON FORAGE (3/2024)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Standard Bank /JMcJbndBmiDBvy9pj_Standard Bank_JzCuPM3WdEExqkxBf_1710693413607_completion_certificate.pdf)
+
+- Completed a job simulation developing a new feature for Standard Bank's mobile application for the software development team.
+- Developed a new budgeting feature for the mobile app using Swift and UIKit to let users set their budget and track their performance against it.
+- Used Cuckoo to mock data responses in Swift and followed a test-driven development approach to verify that the API returned data in the correct format.
+
 ## [COMMONWEALTH BANK SOFTWARE ENGINEERING: JOB SIMULATION ON FORAGE (2/2024)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth Bank/xv8eSGu7nksKNiCQj_Commonwealth Bank_JzCuPM3WdEExqkxBf_1708098620514_completion_certificate.pdf)
 
 - Completed a job simulation focused on backend and frontend development for Commonwealth Bank's Software Engineering team.
