@@ -124,6 +124,28 @@ HANOI, VIETNAM (2012-2016)
 
 For details, please visit my [**Portfolio page**](/projects/).
 
+## [454 ILLUSTRATOR (IN PROCESS)](https://github.com/tienbui1508/454)
+
+### Overview
+
+The 454 illustrator website project is an ongoing endeavor aimed at creating an e-commerce platform for showcasing and selling illustrations. It involves implementing various features to enhance user experience and streamline transactions.
+
+### Technologies and Tools used
+
+- Development Framework: .NET, ASP.NET Core MVC
+- Frontend Technologies: Razor, HTML, CSS
+- Database Management: SQL Server Management Studio
+- Authentication: Identity Framework
+- Payment Gateway: Stripe
+- Development Environment: Visual Studio 2022
+- Deployment: Azure
+
+### Current process
+
+- Created 2 areas for admin and customers
+- Category CRUD operations
+- Product CRUD operations
+
 ## [CUSTOMER CHURN ANALYSIS (10/2023)](/projects/da1-customer-churn-analysis)
 
 ### Overview
