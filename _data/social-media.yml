@@ -14,7 +14,7 @@ dribbble:
 email:
   url: "mailto:"
   icon: fas fa-envelope
-  color: db4437
+  color: 00b3ff
 
 facebook:
   url: https://www.facebook.com/
@@ -34,7 +34,7 @@ gitlab:
 instagram:
   url: https://www.instagram.com/
   icon: fab fa-instagram
-  color: 405de6
+  color: f00080
 
 kaggle:
   url: https://www.kaggle.com/
@@ -99,4 +99,9 @@ keybase:
 datacamp:
   url: https://www.datacamp.com/portfolio/
   icon: fab fa-dashcube
-  color: 34bf49
+  color: 14db22
+
+hackerrank:
+  url: https://www.hackerrank.com/profile/tienbui1508
+  icon: fab fa-hackerrank
+  color: 088c60

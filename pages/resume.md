@@ -16,7 +16,9 @@ Visa 485 Post-Study work to 2/2028 <br>
 LinkedIn: [tienbui1508](https://www.linkedin.com/in/tienbui1508) <br>
 Email: [tienbui1508@gmail.com](mailto:tienbui1508@gmail.com) <br>
 Portfolio: [tienbui1508.github.io](https://github.com/tienbui1508) <br>
-Datacamp: [tienbui1508](https://www.datacamp.com/portfolio/tienbui1508) <br>
+GitHub: [tienbui1508](https://github.com/tienbui1508) <br>
+HackerRank: [tienbui1508](https://www.hackerrank.com/profile/tienbui1508) <br>
+DataCamp: [tienbui1508](https://www.datacamp.com/portfolio/tienbui1508) <br>
 Kaggle: [tienbui1508](https://www.kaggle.com/tienbui1508)
 
 {% capture list_items %}
@@ -118,7 +120,11 @@ HANOI, VIETNAM (2012-2016)
 
 ## [MICROSOFT POWER BI DATA ANALYST: PROFESSIONAL CERTIFICATE BY MICROSOFT ON COURSERA (1/2024)](https://www.coursera.org/account/accomplishments/specialization/8CGTL5XJCEGA)
 
-## [HACKERRANK SQL INTERMEDIATE (10/2023)](https://www.hackerrank.com/certificates/75fe0551d557)
+## [HACKERRANK SQL ADVANCED (4/2024)](https://www.hackerrank.com/certificates/190ed99d7d21)
+
+## [HACKERRANK C# BASIC (4/2024)](https://www.hackerrank.com/certificates/4020f1516977)
+
+## [HACKERRANK JAVA BASIC (4/2024)](https://www.hackerrank.com/certificates/7eada36e8592)
 
 # PROJECTS
 
